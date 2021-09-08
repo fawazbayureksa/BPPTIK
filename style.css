@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+body{
+  text-align:left;
+}
+.gpd-cnt{
+  padding:0;
+}
+#if1z{
+  background-color:#2192d3;
+}
+#id2h{
+  width:80%;
+  font-weight:700;
+  height:100px;
+}
+#ioxh{
+  height:auto;
+  font-size:40px;
+  background-color:#2192d3;
+  color:#333333;
+}
+#ikjn{
+  height:500px;
+}
+#izuu{
+  height:480px;
+}
+#it78f{
+  display:none;
+}
+#i300u{
+  display:none;
+}
+#isig{
+  height:360px;
+}
+#i1ajh{
+  background-color:#2192d3;
+}
+#ip2sl{
+  text-align:center;
+  width:100%;
+  font-weight:700;
+}
